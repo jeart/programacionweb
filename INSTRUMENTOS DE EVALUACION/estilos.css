@@ -1,0 +1,40 @@
+
+body{
+	background-color:#A3A3C2;
+
+}
+.row{
+	width:101%; 
+	color:white;
+	text-align:center;
+	background-color:#00003E;
+	border-right-width:10px;  
+	 }
+	 .btn btn-default{
+	 	border-color: red;
+
+
+	 }
+	 
+pie{
+	background-color: #A3A3C2;
+}
+p{
+	text-align: justify;
+}
+#jumbo{
+	color:black;
+}
+#bien{
+	color:black;
+	text-align:left;
+}
+
+#footer{
+	
+	background-color:#000077;
+	height:40px; 
+	margin-left:5px; 
+	margin-right: 5px;
+	padding-top: 10px;  
+}
